@@ -1,1 +1,6 @@
 This is the brushless motor driver code ripped out of BruGi because I needed a quick way to drive a brushless motor.
+
+BrushlessSpin.ino spins the brushless motor.
+BLcontroller.h has all the functions for spinning the motor.
+
+All the other *.h files are for making the brushless motor driver functions work.
